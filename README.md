@@ -31,11 +31,11 @@ I proactively tackle technical challenges, documenting every obstacle and resolu
 | **Brilliant/Mimo** | Intro to Functions/Web Dev | Active Streaks/Logs |
 
 ## 📫 Get In Touch
-I am actively pursuing new opportunities in System Administration and Cybersecurity. I encourage professional inquiries and mentorship discussions.
+I am actively pursuing new opportunities in System Administration and Cybersecurity. I encourage professional inquiries and mentorship discussions.Feel free to reach out regarding cybersecurity projects, DBA opportunities, or fabrication/logistics inquiries.
 
 *   **LinkedIn:** [linkedin.com/in/christrahan0824](https://www.linkedin.com)
-*   **Email:** [crtaet04@gmail.com](mailto:crtaet04@gmail.com)
+*   **Email:** [chris@qfwllc.com](mailto:chris@qfwllc.com)
+*   **Website:** [https://www.qfwllc.com](https://www.qfwllc.com)
 
-*(Note: Waiting on configuration of professional domain email associated with LLC, will update shortly.)*
 
 
